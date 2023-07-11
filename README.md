@@ -37,6 +37,7 @@ ToDoList App is a user-friendly task management application that simplifies the 
 2. Open your web browser and visit `http://localhost:4200` to access the ToDoList App.
 
 ## Screenshots
+![to-do-list-app](https://github.com/bharathajayarathna/to-do-list-app/assets/128476693/ea03dc1d-2c9b-4d4e-8adb-d49671bd683b)
 
 ## Contributing
 
