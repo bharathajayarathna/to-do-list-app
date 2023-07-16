@@ -5,9 +5,8 @@ ToDoList App is a user-friendly task management application that simplifies the 
 ## Features
 
 - Create tasks: Easily add new tasks with titles, descriptions, due dates, and priorities.
-- Update tasks: Edit task details such as titles, descriptions, due dates, and priorities as needed.
+- Delete tasks: Easily remove unnecessary tasks to keep your task list organized.
 - Mark tasks as complete: Track your progress by marking tasks as complete.
-- Filter and sort tasks: Quickly find specific tasks using filters and sort them based on various criteria.
 - Responsive design: The app is built with a responsive design, allowing seamless usage across different devices.
 
 ## Technologies Used
